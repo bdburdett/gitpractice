@@ -6,7 +6,7 @@ Procedure
     1.b. if green the ready to proceed
 2. `git add [FILENAME]` (or if wanting to add all the files just run `git add .`)
 3. `git status` to make sure you have the correct files green and ready to commit
-4. `git remote add origin [REPONAMEfromGITHUB]`
+4. `git remote add origin [REPONAMEfromGITHUB]` Do this just once when first making commits if working in same repo
 5. `git commit -m "a helpful comment"`
 6. `git push -u origin main`
     6.a it will ask for username and password
