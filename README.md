@@ -1,6 +1,7 @@
 # gitpractice
 
-Procedure
+##Procedure
+
 0. `git init` first time starting the repo
 1. `git status` (check for any updates to the repo)
     1.a. if red then there is a need to push
@@ -15,7 +16,7 @@ Procedure
     6.c. use the new generated token for the password when prompted
 
 
-#--Errors I have ran into--#
+## Common Errors
 
 The error message "src refspec main does not match any" is typically seen when using the git version control system. It indicates that the git command you are trying to use is trying to reference a branch or commit named "main" but that no such branch or commit exists in the local repository.
 
